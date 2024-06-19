@@ -69,7 +69,7 @@ const App = ({route}) => {
     <ScrollView style={styles.container}>
       <View style={styles.header}>
         <View style= {styles.headerInfo}>
-          <Text style={styles.name}>{name || 'Eric Astu'}</Text>
+          <Text style={styles.name}>{name || 'Eric Atsu'}</Text>
           <Text style={styles.email}>{email || 'ericatsu@gmail.com'}</Text>
         </View>
         <Image 
